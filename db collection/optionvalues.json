@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "60fe9849af5e15202419fe62"
+  },
+  "name": "4GB",
+  "option_id": "60fdbe614d33ab28ac1ae7e2",
+  "product_id": "60fb23eec602190c6000f777",
+  "variant_id": "60fc6e202f58f617c8e3eec5",
+  "created_at": {
+    "$date": "2021-07-26T06:11:05Z"
+  },
+  "__v": 0,
+  "update_at": {
+    "$date": "2021-07-26T10:14:37Z"
+  }
+},{
+  "_id": {
+    "$oid": "6101edd47ef7b526e0133f04"
+  },
+  "name": "1.3 Ghz",
+  "option_id": "6101edb77ef7b526e0133f03",
+  "product_id": "60ef5f2c2deeac06300ec629",
+  "variant_id": "6101edab7ef7b526e0133f02",
+  "created_at": {
+    "$date": "2021-07-28T18:52:52Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6104bd65e8e9260e58a5f61d"
+  },
+  "name": "64 GB",
+  "option_id": "6104bd57e8e9260e58a5f61c",
+  "product_id": "6104bbf7e8e9260e58a5f615",
+  "variant_id": "6104bd10e8e9260e58a5f618",
+  "created_at": {
+    "$date": "2021-07-30T22:03:01Z"
+  },
+  "__v": 0,
+  "update_at": {
+    "$date": "2021-07-30T22:03:18Z"
+  }
+},{
+  "_id": {
+    "$oid": "6104bd81e8e9260e58a5f61e"
+  },
+  "name": "128GB",
+  "option_id": "6104bd57e8e9260e58a5f61c",
+  "product_id": "6104bbf7e8e9260e58a5f615",
+  "variant_id": "6104bd10e8e9260e58a5f618",
+  "created_at": {
+    "$date": "2021-07-30T22:03:29Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c96c03158b5180824b98d"
+  },
+  "name": "128 GB",
+  "option_id": "610c969f3158b5180824b98c",
+  "product_id": "610c8bd43158b5180824b958",
+  "variant_id": "610c96953158b5180824b98b",
+  "created_at": {
+    "$date": "2021-08-05T20:56:16Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c974a3158b5180824b990"
+  },
+  "name": "128 GB",
+  "option_id": "610c97413158b5180824b98f",
+  "product_id": "610c95e83158b5180824b985",
+  "variant_id": "610c97343158b5180824b98e",
+  "created_at": {
+    "$date": "2021-08-05T20:58:34Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c98eb3158b5180824b998"
+  },
+  "name": "256 GB",
+  "option_id": "610c98573158b5180824b996",
+  "product_id": "610c97e03158b5180824b991",
+  "variant_id": "610c98343158b5180824b993",
+  "created_at": {
+    "$date": "2021-08-05T21:05:31Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9a173158b5180824b9a1"
+  },
+  "name": "256 GB",
+  "option_id": "610c9a093158b5180824b9a0",
+  "product_id": "610c99953158b5180824b999",
+  "variant_id": "610c99d73158b5180824b99b",
+  "created_at": {
+    "$date": "2021-08-05T21:10:31Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9d073158b5180824b9b0"
+  },
+  "name": "64 GB",
+  "option_id": "610c9cfc3158b5180824b9af",
+  "product_id": "610c9ca43158b5180824b9a8",
+  "variant_id": "610c9ccf3158b5180824b9aa",
+  "created_at": {
+    "$date": "2021-08-05T21:23:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9f313158b5180824b9bf"
+  },
+  "name": "128 GB",
+  "option_id": "610c9ef03158b5180824b9bd",
+  "product_id": "610c9ea83158b5180824b9b7",
+  "variant_id": "610c9eca3158b5180824b9b9",
+  "created_at": {
+    "$date": "2021-08-05T21:32:17Z"
+  },
+  "__v": 0
+}]

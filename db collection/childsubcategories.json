@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "610c812d3158b5180824b940"
+  },
+  "name": "DELL",
+  "imgpath": "3a0cf8bb2efc2469aa8f05d4e24ddf46.jpg_340x340q80.jpg",
+  "categoryid": "610c7d2d3158b5180824b936",
+  "subcategoryid": "610c80e13158b5180824b93f",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T19:24:13Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c81b23158b5180824b941"
+  },
+  "name": "   HP  ",
+  "imgpath": "3a0cf8bb2efc2469aa8f05d4e24ddf46.jpg_340x340q80.jpg",
+  "categoryid": "610c7d2d3158b5180824b936",
+  "subcategoryid": "610c80e13158b5180824b93f",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T19:26:26Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c928a3158b5180824b979"
+  },
+  "name": "IPHONE",
+  "imgpath": "apps-1.jpg",
+  "categoryid": "610c7d2d3158b5180824b936",
+  "subcategoryid": "610c809b3158b5180824b93e",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T20:38:18Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c92a33158b5180824b97a"
+  },
+  "name": "SAMSUNG",
+  "imgpath": "apps-1.jpg",
+  "categoryid": "610c7d2d3158b5180824b936",
+  "subcategoryid": "610c809b3158b5180824b93e",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T20:38:43Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca14a3158b5180824b9c6"
+  },
+  "name": "NIKE",
+  "imgpath": "1bf90bafa5dcf53b286449f66bcaaac0.jpg",
+  "categoryid": "610c7fe63158b5180824b93c",
+  "subcategoryid": "610ca0b53158b5180824b9c4",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T21:41:14Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca17d3158b5180824b9c7"
+  },
+  "name": "NIKE",
+  "imgpath": "1bf90bafa5dcf53b286449f66bcaaac0.jpg",
+  "categoryid": "610c7fe63158b5180824b93c",
+  "subcategoryid": "610ca0cc3158b5180824b9c5",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T21:42:05Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d97c9f85e4e05e4e63d93"
+  },
+  "name": "ARMANI",
+  "imgpath": "d6d89415-f059-4c4c-87ba-55dc9c8ca38c.jfif",
+  "categoryid": "610c80473158b5180824b93d",
+  "subcategoryid": "610d978ef85e4e05e4e63d92",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-06T15:12:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d99c8f85e4e05e4e63d9a"
+  },
+  "name": "LIMELIGHT",
+  "imgpath": "d6d89415-f059-4c4c-87ba-55dc9c8ca38c.jfif",
+  "categoryid": "610c80473158b5180824b93d",
+  "subcategoryid": "610d9770f85e4e05e4e63d91",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-06T15:21:28Z"
+  },
+  "__v": 0
+}]

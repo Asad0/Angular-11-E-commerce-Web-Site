@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "610c7d2d3158b5180824b936"
+  },
+  "name": "ELECTRONICS",
+  "imgpath": "e47d7fb5-46a7-4a03-8477-676b702c1406.jfif",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T19:07:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c7fe63158b5180824b93c"
+  },
+  "name": "MENS",
+  "imgpath": "1bf90bafa5dcf53b286449f66bcaaac0.jpg",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T19:18:46Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c80473158b5180824b93d"
+  },
+  "name": "WOMEN",
+  "imgpath": "photo-1589465885857-44edb59bbff2.jfif",
+  "status": true,
+  "created_at": {
+    "$date": "2021-08-05T19:20:23Z"
+  },
+  "__v": 0
+}]

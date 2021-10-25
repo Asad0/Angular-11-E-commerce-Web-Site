@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6109656371adae04684d742d"
+  },
+  "firstName": "Muhammad",
+  "lastName": "Asad",
+  "email": "asadshoaib2@gmail.com",
+  "password": "Zero@12345",
+  "confirmPassword": "Zero@12345",
+  "acceptTerms": "true",
+  "created_at": {
+    "$date": "2021-08-03T10:48:51Z"
+  },
+  "__v": 0
+}]

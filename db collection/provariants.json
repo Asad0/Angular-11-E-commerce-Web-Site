@@ -1,0 +1,414 @@
+[{
+  "_id": {
+    "$oid": "60fc6ab82f58f617c8e3eec3"
+  },
+  "name": "color",
+  "product_id": "60fb23eec602190c6000f777",
+  "created_at": {
+    "$date": "2021-07-24T14:32:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc6c6b2f58f617c8e3eec4"
+  },
+  "name": "Size",
+  "product_id": "60fb23eec602190c6000f777",
+  "created_at": {
+    "$date": "2021-07-24T14:39:23Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc6e202f58f617c8e3eec5"
+  },
+  "name": "capacity",
+  "product_id": "60fb23eec602190c6000f777",
+  "created_at": {
+    "$date": "2021-07-24T14:46:40Z"
+  },
+  "__v": 0,
+  "update_at": {
+    "$date": "2021-07-24T16:19:49Z"
+  }
+},{
+  "_id": {
+    "$oid": "6104bd10e8e9260e58a5f618"
+  },
+  "name": "capacity",
+  "product_id": "6104bbf7e8e9260e58a5f615",
+  "created_at": {
+    "$date": "2021-07-30T22:01:36Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6104bd1fe8e9260e58a5f619"
+  },
+  "name": "color",
+  "product_id": "6104bbf7e8e9260e58a5f615",
+  "created_at": {
+    "$date": "2021-07-30T22:01:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61085d2a4d552022a0e05571"
+  },
+  "name": "ROM",
+  "product_id": "6104bc46e8e9260e58a5f616",
+  "created_at": {
+    "$date": "2021-08-02T16:01:30Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c86123158b5180824b944"
+  },
+  "name": "COLOR",
+  "product_id": "610c84023158b5180824b943",
+  "created_at": {
+    "$date": "2021-08-05T19:45:06Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c89063158b5180824b949"
+  },
+  "name": "COLOR",
+  "product_id": "610c88373158b5180824b948",
+  "created_at": {
+    "$date": "2021-08-05T19:57:42Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8a233158b5180824b94f"
+  },
+  "name": "COLOR",
+  "product_id": "610c8a0d3158b5180824b94e",
+  "created_at": {
+    "$date": "2021-08-05T20:02:27Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8b0f3158b5180824b954"
+  },
+  "name": "COLOR",
+  "product_id": "610c8ae63158b5180824b953",
+  "created_at": {
+    "$date": "2021-08-05T20:06:23Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8bf13158b5180824b959"
+  },
+  "name": "COLOR",
+  "product_id": "610c8bd43158b5180824b958",
+  "created_at": {
+    "$date": "2021-08-05T20:10:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8cf23158b5180824b95d"
+  },
+  "name": "COLOR",
+  "product_id": "610c8cba3158b5180824b95c",
+  "created_at": {
+    "$date": "2021-08-05T20:14:26Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8ddb3158b5180824b963"
+  },
+  "name": "COLOR",
+  "product_id": "610c8db83158b5180824b962",
+  "created_at": {
+    "$date": "2021-08-05T20:18:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8eb53158b5180824b968"
+  },
+  "name": "COLOR",
+  "product_id": "610c8e913158b5180824b967",
+  "created_at": {
+    "$date": "2021-08-05T20:21:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c8fc83158b5180824b96d"
+  },
+  "name": "COLOR",
+  "product_id": "610c8f6e3158b5180824b96c",
+  "created_at": {
+    "$date": "2021-08-05T20:26:32Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c92193158b5180824b975"
+  },
+  "name": "COLOR",
+  "product_id": "610c91e43158b5180824b974",
+  "created_at": {
+    "$date": "2021-08-05T20:36:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c942d3158b5180824b97c"
+  },
+  "name": "COLOR",
+  "product_id": "610c94123158b5180824b97b",
+  "created_at": {
+    "$date": "2021-08-05T20:45:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c952f3158b5180824b981"
+  },
+  "name": "COLOR",
+  "product_id": "610c95053158b5180824b980",
+  "created_at": {
+    "$date": "2021-08-05T20:49:35Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c96073158b5180824b986"
+  },
+  "name": "COLOR",
+  "product_id": "610c95e83158b5180824b985",
+  "created_at": {
+    "$date": "2021-08-05T20:53:11Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c96953158b5180824b98b"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c8bd43158b5180824b958",
+  "created_at": {
+    "$date": "2021-08-05T20:55:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c97343158b5180824b98e"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c95e83158b5180824b985",
+  "created_at": {
+    "$date": "2021-08-05T20:58:12Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c982b3158b5180824b992"
+  },
+  "name": "COLOR",
+  "product_id": "610c97e03158b5180824b991",
+  "created_at": {
+    "$date": "2021-08-05T21:02:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c98343158b5180824b993"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c97e03158b5180824b991",
+  "created_at": {
+    "$date": "2021-08-05T21:02:28Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c99cf3158b5180824b99a"
+  },
+  "name": "COLOR",
+  "product_id": "610c99953158b5180824b999",
+  "created_at": {
+    "$date": "2021-08-05T21:09:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c99d73158b5180824b99b"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c99953158b5180824b999",
+  "created_at": {
+    "$date": "2021-08-05T21:09:27Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9b1e3158b5180824b9a4"
+  },
+  "name": "COLOR",
+  "product_id": "610c9af23158b5180824b9a3",
+  "created_at": {
+    "$date": "2021-08-05T21:14:54Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9cc13158b5180824b9a9"
+  },
+  "name": "COLOR",
+  "product_id": "610c9ca43158b5180824b9a8",
+  "created_at": {
+    "$date": "2021-08-05T21:21:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9ccf3158b5180824b9aa"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c9ca43158b5180824b9a8",
+  "created_at": {
+    "$date": "2021-08-05T21:22:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9dd43158b5180824b9b3"
+  },
+  "name": "COLOR",
+  "product_id": "610c9da03158b5180824b9b2",
+  "created_at": {
+    "$date": "2021-08-05T21:26:28Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9ec13158b5180824b9b8"
+  },
+  "name": "COLOR",
+  "product_id": "610c9ea83158b5180824b9b7",
+  "created_at": {
+    "$date": "2021-08-05T21:30:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610c9eca3158b5180824b9b9"
+  },
+  "name": "CAPACITY",
+  "product_id": "610c9ea83158b5180824b9b7",
+  "created_at": {
+    "$date": "2021-08-05T21:30:34Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca0223158b5180824b9c1"
+  },
+  "name": "COLOR",
+  "product_id": "610ca00f3158b5180824b9c0",
+  "created_at": {
+    "$date": "2021-08-05T21:36:18Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca2963158b5180824b9c9"
+  },
+  "name": "COLOR",
+  "product_id": "610ca26e3158b5180824b9c8",
+  "created_at": {
+    "$date": "2021-08-05T21:46:46Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca33d3158b5180824b9cc"
+  },
+  "name": "SIZE",
+  "product_id": "610ca26e3158b5180824b9c8",
+  "created_at": {
+    "$date": "2021-08-05T21:49:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca5b13158b5180824b9d4"
+  },
+  "name": "COLOR",
+  "product_id": "610ca57a3158b5180824b9d3",
+  "created_at": {
+    "$date": "2021-08-05T22:00:01Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca5b83158b5180824b9d5"
+  },
+  "name": "SIZE",
+  "product_id": "610ca57a3158b5180824b9d3",
+  "created_at": {
+    "$date": "2021-08-05T22:00:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca6ac3158b5180824b9de"
+  },
+  "name": "COLOR",
+  "product_id": "610ca6933158b5180824b9dd",
+  "created_at": {
+    "$date": "2021-08-05T22:04:12Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610ca79f3158b5180824b9e4"
+  },
+  "name": "COLOR",
+  "product_id": "610ca7633158b5180824b9e3",
+  "created_at": {
+    "$date": "2021-08-05T22:08:15Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610cace63158b5180824b9eb"
+  },
+  "name": "COLOR",
+  "product_id": "610caaa43158b5180824b9ea",
+  "created_at": {
+    "$date": "2021-08-05T22:30:46Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d9900f85e4e05e4e63d96"
+  },
+  "name": "COLOR",
+  "product_id": "610d989cf85e4e05e4e63d94",
+  "created_at": {
+    "$date": "2021-08-06T15:18:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "610d9accf85e4e05e4e63d9c"
+  },
+  "name": "COLOR",
+  "product_id": "610d9a92f85e4e05e4e63d9b",
+  "created_at": {
+    "$date": "2021-08-06T15:25:48Z"
+  },
+  "__v": 0
+}]
